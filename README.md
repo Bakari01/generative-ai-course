@@ -85,23 +85,3 @@ By the end of this course, you will be able to:
 
 ### Final: Certification  
 - Certificate issued by **OUK × BCS Technology**  
-
----
-
-## 📂 Repository Layout  
-
-generative-ai-course/
-├── modules/
-│ ├── 01-course-launch/
-│ ├── 02-foundations-ai-ml-dl/
-│ ├── 03-sequence-models-transformers/
-│ ├── 04-gpt-architecture/
-│ ├── 05-08-advanced-models-agentic-ai/
-│
-├── tutorials-week4-8/
-├── hackathon/
-├── projects/
-│ └── final-capstone/
-├── resources/
-└── README.md
-
