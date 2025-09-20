@@ -55,33 +55,69 @@ By the end of this course, you will be able to:
 
 ## 🛠 Weekly Breakdown  
 
-### Week 1: The Generative AI Wave  
-- Industry overview & use cases  
-- Ethical considerations  
+### Week 1: Course Launch & The Generative AI Wave  
+- 👋 Welcome & course structure  
+- 🏆 Hackathon announcement  
+- 🔬 The state of Generative AI from a research lens  
+- 🌍 Industry trends shaping the future of AI  
 
-### Week 2: Foundations of AI, ML & DL  
-- Neural networks basics  
-- Training, validation, evaluation  
+### Week 2: Foundations of AI, ML & Deep Learning  
+- 📖 Core definitions: **AI vs ML vs DL**  
+- 🎯 Paradigms: supervised, unsupervised, reinforcement learning  
+- 🧩 Neural networks fundamentals  
+- 🧠 Comparisons with human cognition  
 
-### Week 3: Sequence Models & Transformers  
-- RNNs, LSTMs, GRUs  
-- Introduction to transformers  
+### Week 3: Sequence Models & Transformer Evolution  
+- 🔁 Recurrent architectures: **RNNs, LSTMs, GRUs**  
+- 🎯 Attention mechanisms  
+- 🔗 Encoder-decoder models  
+- 🚀 Introduction to the Transformer architecture  
 
-### Week 4: GPT Architectures  
-- GPT-1 → GPT-5  
-- Scaling laws & limitations  
+### Week 4: GPT Architectures & Training Strategies  
+- 📖 **Evolution of GPT Models**: GPT-1 → GPT-5  
+- ⚙️ Pre-training & fine-tuning strategies  
+- 🧑‍🤝‍🧑 **RLHF (Reinforcement Learning with Human Feedback)**  
+- 🔬 Case studies of GPT applications  
+- 🧑‍💻 Tutorial: fine-tuning GPT-based models  
 
-### Weeks 5–8: Advanced Models & Multimodal AI  
-- Agentic AI  
-- Vision + Language + Audio + Video  
+### Weeks 5–8: Advanced Models, Multimodal & Agentic AI  
+- 🔥 **Frontier Models**: DeepSeek-V2, Claude, LLaMA, Mistral, Phi-4  
+- 🖼 **Multimodal AI**: GPT-4V, Gemma-3, MM-ReAct  
+- 🧠 **Agentic AI Systems**: reasoning, planning, tool use  
+- 🎯 **Fine-tuning Strategies**: LoRA, domain adaptation  
+- 🧑‍💻 Labs on advanced architectures & deployment  
 
 ### Weeks 4–8: Tutorials  
-- Fine-tuning models  
-- Deploying generative AI  
+
+- 🤖 **LLM Integration & Beyond Prompting** — going past basic prompting to advanced orchestration  
+- ⚡ **Building AI Apps in Jaseci (Jac Programming)** — hands-on development with the Jaseci Lab ecosystem  
+- 🧠 **Designing Agentic AI Systems** — structured reasoning, planning, and tool-use integration  
+- 🚀 **Deploying End-to-End LLM Projects** — from model fine-tuning to production deployment  
+
+---
 
 ### Weeks 9–10: Hackathon  
-- Build a real AI application  
-- Pitch to peers & experts  
 
-### Final: Certification  
-- Certificate issued by **OUK × BCS Technology**  
+- 🤝 **Collaborative hackathon** applying generative AI solutions to real-world problems  
+- 🏆 **Top 100 students** earn placement at the **BCS Kenya AI Innovation Lab**  
+- 🎤 Pitching solutions to peers, mentors, and industry experts  
+- 💡 Focus on innovation, scalability, and social impact  
+
+---
+
+### 🏆 Certificate of Completion  
+
+Upon successfully completing the **Building Generative AI Applications** course, you will be awarded a **Certificate of Completion** jointly issued by:  
+
+- **The Open University of Kenya (OUK)**  
+- **BCS Technology International Pty Limited (Australia)**  
+
+This certificate validates your:  
+- ✅ Mastery of advanced Generative AI concepts  
+- ✅ Hands-on expertise with the **Jaseci Lab ecosystem**  
+- ✅ Ability to **design, build, and deploy** AI-powered applications  
+
+📜 Recognition:  
+- Boost your **academic profile**  
+- Strengthen your **CV**  
+- Improve **employability** in the global AI workforce  
