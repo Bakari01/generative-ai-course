@@ -1,11 +1,10 @@
 # 🌟 Support & Connect  
 
-👉 If you like this project:  
-- ⭐ [**Star this repo**](https://github.com/Bakari01/generative-ai-course)  
-- 👀 [**Watch for updates**](https://github.com/Bakari01/generative-ai-course)  
-- 🙌 [**Follow me**](https://github.com/Bakari01) for more projects  
+[![Star this repo](https://img.shields.io/github/stars/Bakari01/generative-ai-course?style=social)](https://github.com/Bakari01/generative-ai-course)  
+[![Watch this repo](https://img.shields.io/github/watchers/Bakari01/generative-ai-course?style=social)](https://github.com/Bakari01/generative-ai-course)  
+[![Follow me](https://img.shields.io/github/followers/Bakari01?style=social)](https://github.com/Bakari01)  
 
----
+--- 
 
 # 🚀 Building Generative AI Applications  
 
