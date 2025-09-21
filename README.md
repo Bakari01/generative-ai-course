@@ -6,6 +6,14 @@
 ![Course](https://img.shields.io/badge/course-OUK%20×%20BCS%20Technology-red)  
 ![Generative AI](https://img.shields.io/badge/focus-Generative%20AI-purple)  
 
+---
+
+⭐ **If you find this repository helpful, please [Star this repo](https://github.com/Bakari01/generative-ai-course/stargazers)!**  
+👀 **Stay updated → [Watch this repo](https://github.com/Bakari01/generative-ai-course/watchers).**  
+🙌 **Follow me for more projects → [@Bakari01](https://github.com/Bakari01).**  
+
+---
+
 > **From GPT to multimodal systems — practical projects, tutorials, and a hackathon in Generative AI.**
 
 ---
