@@ -1,10 +1,11 @@
 # 🌟 Support & Connect  
 
-[![Follow](https://img.shields.io/badge/Follow-Bakari01-236ad3?logo=github&style=for-the-badge)](https://github.com/Bakari01)  
-[![Star](https://img.shields.io/badge/Star-generative--ai--course-f5c518?logo=github&style=for-the-badge)](https://github.com/Bakari01/generative-ai-course)  
-[![Watch](https://img.shields.io/badge/Watch-generative--ai--course-000000?logo=github&style=for-the-badge)](https://github.com/Bakari01/generative-ai-course)  
+[![Follow](https://img.shields.io/badge/follow-Bakari01-236ad3?logo=github&style=for-the-badge&logoColor=white)](https://github.com/Bakari01)  
+[![Star](https://img.shields.io/badge/star-generative--ai--course-f5c518?logo=github&style=for-the-badge&logoColor=black)](https://github.com/Bakari01/generative-ai-course)  
+[![Watch](https://img.shields.io/badge/watch-generative--ai--course-000000?logo=github&style=for-the-badge&logoColor=white)](https://github.com/Bakari01/generative-ai-course)  
 
 ---
+
 
 # 🚀 Building Generative AI Applications  
 
