@@ -11,7 +11,8 @@ glob llm = Model(model_name="gemini/gemini-2.0-flash");
 
 # Tell the LLM what type it should return — simple string
 # The `by llm()` syntax lets the LLM implement the body; the docstring guides it.
-def comp_choice() -> str by llm();
+def comp_choice() -> str by llm ();
+
 
 # Inline Python helper used for fallback/random choice
 ::py::
